@@ -1,0 +1,10 @@
+// /** @file
+// USB JoyStick Driver that manages USB JoyStick.
+// YIZD 2021
+//
+// **/
+
+
+#string STR_MODULE_ABSTRACT             #language en-US "Manages USB JoyStick"
+
+#string STR_MODULE_DESCRIPTION          #language en-US "USB JoyCon Driver consumes USB I/O Protocol and Device Path Protocol "
